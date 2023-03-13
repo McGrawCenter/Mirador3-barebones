@@ -59,7 +59,7 @@ module.exports = (env, options) => {
     devServer: {
       contentBase: './demo',
       hot: true,
-      port: 4444,
+      port: 4545,
     },
     devtool: 'eval-source-map',
     mode: 'development',
